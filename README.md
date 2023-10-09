@@ -1,5 +1,5 @@
 # PredictableScaling
-Repo for paper "Unlock Predictable Scaling from Emergent Abilities"
+Repo for paper [Unlock Predictable Scaling from Emergent Abilities](https://arxiv.org/abs/2310.03262)
 
 ## Updates
 We are preparing the checkpoints in the scaling experiments ...
